@@ -1,0 +1,79 @@
+﻿@using BeautyLand.Application.Services.Site.Orders.Dtos
+@model OrderDetailDto
+@{
+    ViewData["Title"] = $"جزئیات سفارش {Model.Id}";
+}
+<div class="container-fluid text-right">
+    <!-- Added text-right to align text to the right -->
+
+    <div class="row mb-4">
+        <!-- Added margin bottom for spacing -->
+        <div class="col-12">
+            <!-- Full width for largest screens -->
+            <b>اطلاعات سفارش</b>
+            <table class="table table-bordered">
+                <tr>
+                    <td>مبلغ کل</td>
+                    <td>وضعیت پرداخت</td>
+                </tr>
+                <tr>
+                    <td>@Model.TotalPrice.ToString("n0")</td>
+                    <td>@Model.IsPaid</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <!-- For address delivery -->
+        <div class="col-12">
+            <!-- Full width for the address section -->
+            <b>آدرس تحویل</b>
+            <table class="table table-bordered">
+                <tr>
+                    <td>گیرنده</td>
+                    <td>تلفن</td>
+                    <td>آدرس</td>
+                </tr>
+                <tr>
+                    <td>@Model.Name</td>
+                    <td>@Model.PhoneNumber</td>
+                    <td>@Model.Address</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <!-- For order items -->
+        <div class="col-12">
+            <!-- Full width for the table -->
+            <b>محصولات در این سفارش</b>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>نام محصول</th>
+                        <th>قیمت واحد</th>
+                        <th>تعداد</th>
+                        <th>قیمت کل</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderItems)
+                    {
+                        <tr>
+                            <td>@item.Consignment</td>
+                            <td>@item.Price.ToString("n0")</td>
+                            <td>@item.Quantity</td>
+                            @{
+                                int totalPrice = item.Price * item.Quantity;
+                            }
+                            <td><b>@totalPrice.ToString("n0")</b></td> <!-- Placed within <tr> -->
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>

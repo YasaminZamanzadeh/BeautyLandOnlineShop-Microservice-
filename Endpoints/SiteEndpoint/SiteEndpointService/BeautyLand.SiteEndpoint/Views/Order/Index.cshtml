@@ -1,0 +1,49 @@
+﻿@using BeautyLand.Application.Services.Site.Orders.Dtos
+@model List<OrderDto>
+@{
+    ViewData["Title"] = $" سفارش";
+}
+
+<table class="table col-md-9">
+    <thead>
+        <tr>
+            <th>
+                <label>تعداد محصولات</label>
+            </th>
+            <th>
+                <label>قیمت کل</label>
+            </th>
+            <th>
+                <label>پرداخت شده؟</label>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    <b> @item.TotalPrice.ToString("n0") تومان</b>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsPaid)
+                    @if (item.IsPaid == false)
+                    {
+                        <a asp-action="Pay" asp-controller="Payment" asp-route-orderId="@item.Id" class="btn"></a>
+                        <i>
+                            پرداخت
+                        </i>
+                    }
+                </td>
+                <td class="row">
+                    <a class="" asp-action="Detail" asp-controller="Order" asp-route-id="@item.Id"> جزئیات</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

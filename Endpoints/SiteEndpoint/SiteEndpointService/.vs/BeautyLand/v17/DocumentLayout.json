@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\endpoints\\siteendpoint\\siteendpointservice\\beautyland.siteendpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|solutionrelative:beautyland.siteendpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\endpoints\\siteendpoint\\siteendpointservice\\beautyland.siteendpoint\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|solutionrelative:beautyland.siteendpoint\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\endpoints\\siteendpoint\\siteendpointservice\\beautyland.siteendpoint\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364E1280-271D-4A76-8F7F-DF0BF88AE6ED}|BeautyLand.SiteEndpoint\\BeautyLand.SiteEndpoint.csproj|solutionrelative:beautyland.siteendpoint\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE487073-DED3-4A63-A9AB-A85DEC61740C}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\endpoints\\siteendpoint\\siteendpointservice\\beautyland.application\\services\\site\\catalogs\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE487073-DED3-4A63-A9AB-A85DEC61740C}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\services\\site\\catalogs\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Program.cs",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndpoint\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Program.cs",
+              "RelativeToolTip": "BeautyLand.SiteEndpoint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:13:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndpoint\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Controllers\\ItemController.cs*",
+              "RelativeToolTip": "BeautyLand.SiteEndpoint\\Controllers\\ItemController.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:09:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.Application\\Services\\Site\\Catalogs\\Item\\ItemService.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Services\\Site\\Catalogs\\Item\\ItemService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.Application\\Services\\Site\\Catalogs\\Item\\ItemService.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Services\\Site\\Catalogs\\Item\\ItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:08:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Startup.cs",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndpoint\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\Endpoints\\SiteEndpoint\\SiteEndpointService\\BeautyLand.SiteEndpoint\\Startup.cs*",
+              "RelativeToolTip": "BeautyLand.SiteEndpoint\\Startup.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAIQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:02:45.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+obj\Debug\net5.0/DiscountProtoBuff.cs \
+obj\Debug\net5.0/DiscountProtoBuffGrpc.cs: ../../DiscountService/BeautyLand/BeautyLand.SiteEndPoint/Proto/DiscountProtoBuff.proto

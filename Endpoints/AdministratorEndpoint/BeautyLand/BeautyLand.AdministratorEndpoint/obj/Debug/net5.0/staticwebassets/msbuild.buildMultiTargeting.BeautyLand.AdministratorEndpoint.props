@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BeautyLand.AdministratorEndpoint.props" />
+</Project>

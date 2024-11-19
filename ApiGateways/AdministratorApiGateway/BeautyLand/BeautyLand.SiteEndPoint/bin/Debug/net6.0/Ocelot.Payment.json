@@ -1,0 +1,57 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Payment/CreatePayment?orderId={orderId}&amount={amount}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Payment/CreatePayment?orderId={orderId}&amount={amount}",
+      "UpstreamScheme": "https",
+      "UpstreamHttpMethod": [
+        "POST"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Payment/RequestPayment?orderId={orderId}&callBackUrl={callBackUrl}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Payment/RequestPayment?orderId={orderId}&callBackUrl={callBackUrl}",
+      "UpstreamScheme": "https",
+      "UpstreamHttpMethod": [
+        "GET"
+      ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [], // array of strings
+        "EnableRateLimiting": true,
+        "Period": "1s", // seconds, minutes, hours, days
+        "PeriodTimespan": 1, // only seconds
+        "Limit": 1
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/Payment/Verification?id={id}&callingBackUrl={callingBackUrl}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Payment/Verification?id={id}&callingBackUrl={callingBackUrl}",
+      "UpstreamScheme": "https",
+      "UpstreamHttpMethod": [
+        "GET"
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,60 @@
+﻿@model BeautyLand.Application.Services.Site.Baskets.Basket.Dtos.CheckoutBasketDto
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<section class="order-form my-4 mx-4 text-right" dir="rtl">
+    <div class="container pt-4">
+        <form method="post" class="row">
+            <div class="col-12">
+                <h4>ثبت سفارش</h4>
+                <hr class="mt-1">
+            </div>
+
+            <div class="col-12">
+                <!-- Name Input -->
+                <div class="row mx-4 mb-3">
+                    <label class="col-12 order-form-label">نام</label>
+                    <div class="col-lg-12">
+                        <input asp-for="Name" class="order-form-input form-control" placeholder="نام" required>
+                    </div>
+                </div>
+
+                <!-- Address Input -->
+                <div class="row mx-4 mb-3">
+                    <label class="col-12 order-form-label">آدرس</label>
+                    <div class="col-lg-12">
+                        <input asp-for="Address" class="order-form-input form-control" placeholder="آدرس تحویل" required>
+                    </div>
+                </div>
+
+                <!-- Postal Code and Phone Number Inputs -->
+                <div class="row mx-4 mb-3">
+                    <div class="col-10 col-sm-6 pr-sm-2">
+                        <label class="order-form-label">کد پستی</label>
+                        <input asp-for="PostalCode" class="order-form-input form-control" placeholder="کد پستی" required>
+                    </div>
+                    <div class="col-10 col-sm-6 pl-sm-0">
+                        <label class="order-form-label">شماره تماس</label>
+                        <input asp-for="PhoneNumber" class="order-form-input form-control" placeholder="شماره تماس" required>
+                    </div>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="row mx-4">
+                    <div class="col-12">
+                        <button type="submit" class="btn">ثبت نهایی سفارش</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

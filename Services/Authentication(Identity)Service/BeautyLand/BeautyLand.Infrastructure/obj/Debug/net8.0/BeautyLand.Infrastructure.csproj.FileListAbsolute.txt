@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Infrastructure.deps.json
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Infrastructure.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Infrastructure.pdb
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Persistence.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Persistence.pdb
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLa.215E333B.Up2Date
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\refint\BeautyLand.Infrastructure.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\BeautyLand.Infrastructure.pdb
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\obj\Debug\net8.0\ref\BeautyLand.Infrastructure.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Domain.dll
+C:\Users\ASUS\Desktop\MicroServiceProject\MicroServices\Authentication(Identity)Service\BeautyLand\BeautyLand.Infrastructure\bin\Debug\net8.0\BeautyLand.Domain.pdb

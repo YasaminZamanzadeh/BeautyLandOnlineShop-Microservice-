@@ -1,0 +1,7 @@
+{
+
+  "GlobalConfiguration": {
+    //GlobalConfiguration provides an configuration that will be generally
+    "BaseUrl": "https://localhost:10021"
+  }
+}

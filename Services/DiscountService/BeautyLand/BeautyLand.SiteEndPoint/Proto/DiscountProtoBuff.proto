@@ -1,0 +1,72 @@
+syntax = "proto3";
+
+option csharp_namespace = "BeautyLand.SiteEndPoint.Proto";
+
+service DicountProtoBuff
+{
+	rpc GetDiscountByCode(RequestGetDiscountByCode) returns(ResponseGetDiscountByCode); 	//Unary state
+		rpc GetDiscountById(RequestGetDiscountById) returns(ResponseGetDiscountById); 	//Unary state
+	rpc UseDiscount(RequestUseDiscount) returns(ResponseUseDiscount); //Unary state
+	rpc CreateDiscount(RequestCreateDiscount) returns(ResponseCreateDiscount); //Unary state
+}
+
+message RequestGetDiscountByCode
+{
+	string code =1;
+}
+
+message ResponseGetDiscountByCode
+{
+	GetDiscountByCode model = 1;
+	bool isSuccesss = 2;
+	string message =3;
+}
+
+message GetDiscountByCode
+{
+	string id =1;
+	int32 amount =2;
+	string code =3;
+	bool isUsed =4;
+}
+
+message RequestGetDiscountById
+{
+	string id =1;
+}
+
+message ResponseGetDiscountById
+{
+	GetDiscountById model = 1;
+	bool isSuccesss = 2;
+	string message =3;
+}
+
+message GetDiscountById
+{
+	string id =1;
+	int32 amount =2;
+	string code =3;
+	bool isUsed =4;
+}
+
+message RequestUseDiscount
+{
+	string id =1;
+}
+
+message ResponseUseDiscount
+{
+	bool isSuccesss =1;
+}
+
+message RequestCreateDiscount
+{
+	string code =1;
+	int32 amount =2;
+}
+
+message ResponseCreateDiscount
+{
+	bool isSuccesss =1;
+}

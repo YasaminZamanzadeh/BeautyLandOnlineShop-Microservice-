@@ -1,0 +1,61 @@
+{
+  //Ocelot of config file has two main part
+  "Routes": [
+    //Routes provide an arra of route that includes an way which endpoint can request and another way that microservice have been exisiting
+    //Item
+    {
+      //Dowstream is the desired microservice
+      "DownstreamPathTemplate": "/api/Item",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          // Initializing various host and port for instance, such as load balancer
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "FileCacheOptions": {
+        "TtlSeconds": 15,
+        "Region": "europe-central",
+        "Header": "OC-Caching-Control",
+        "EnableContentHashing": false // my route has GET verb only, assigning 'true' for requests with body: POST, PUT etc.
+      },
+      //Upstream provides an address to endpoint 
+      "UpstreamPathTemplate": "/api/Item",
+      "UpstreamHttpMethod": [
+        "GET"
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Item/{Id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Item/{Id}",
+      "UpstreamHttpMethod": [
+        "GET"
+      ],
+      "Key": "GetItemDetail"
+    },
+    //Type
+    {
+      "DownstreamPathTemplate": "/api/Type",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Type",
+      "UpstreamHttpMethod": [
+        "GET",
+        "POST"
+      ]
+    }
+  ]
+}

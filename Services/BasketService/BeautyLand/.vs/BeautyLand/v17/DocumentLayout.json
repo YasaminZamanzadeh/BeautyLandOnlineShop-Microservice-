@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\services\\site\\discounts\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\services\\site\\discounts\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.siteendpoint\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|solutionrelative:beautyland.siteendpoint\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\services\\site\\baskets\\bskets\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\services\\site\\baskets\\bskets\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.siteendpoint\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|solutionrelative:beautyland.siteendpoint\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\messages\\messagesbus\\consumer\\rabbitmqitemconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\messages\\messagesbus\\consumer\\rabbitmqitemconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\messages\\messagesbus\\dtos\\consumer\\rabbitmqitemconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\messages\\messagesbus\\dtos\\consumer\\rabbitmqitemconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.siteendpoint\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|solutionrelative:beautyland.siteendpoint\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48AD3BF-2AF1-47B9-A3B0-67BD2FDBAC9C}|BeautyLand.Infrastructure\\BeautyLand.Infrastructure.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.infrastructure\\configurations\\databases\\baskets\\basketdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48AD3BF-2AF1-47B9-A3B0-67BD2FDBAC9C}|BeautyLand.Infrastructure\\BeautyLand.Infrastructure.csproj|solutionrelative:beautyland.infrastructure\\configurations\\databases\\baskets\\basketdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\services\\site\\catalogs\\items\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\services\\site\\catalogs\\items\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.siteendpoint\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E0C8F47-0C1E-4D53-8743-D4F9940C840B}|BeautyLand.SiteEndPoint\\BeautyLand.SiteEndPoint.csproj|solutionrelative:beautyland.siteendpoint\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\messages\\messagesbus\\dtos\\publisher\\rabbitmqbasketconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\messages\\messagesbus\\dtos\\publisher\\rabbitmqbasketconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\messages\\messagesbus\\publisher\\rabbitmqbasketpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\messages\\messagesbus\\publisher\\rabbitmqbasketpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|c:\\users\\asus\\desktop\\microserviceproject\\microservices\\basketservice\\beautyland\\beautyland.application\\beautyland.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{189D1488-A070-4845-9FC9-215A0EEC8281}|BeautyLand.Application\\BeautyLand.Application.csproj|solutionrelative:beautyland.application\\beautyland.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Discounts\\DiscountService.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Services\\Site\\Discounts\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Discounts\\DiscountService.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Services\\Site\\Discounts\\DiscountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:48:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndPoint\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeautyLand.SiteEndPoint\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T10:35:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndPoint\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BeautyLand.SiteEndPoint\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:29:32.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Baskets\\Bskets\\BasketService.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Services\\Site\\Baskets\\Bskets\\BasketService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Baskets\\Bskets\\BasketService.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Services\\Site\\Baskets\\Bskets\\BasketService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAApwI0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:29:32.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Infrastructure\\Configurations\\Databases\\Baskets\\BasketDatabase.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Infrastructure\\Configurations\\Databases\\Baskets\\BasketDatabase.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Infrastructure\\Configurations\\Databases\\Baskets\\BasketDatabase.cs",
+              "RelativeToolTip": "BeautyLand.Infrastructure\\Configurations\\Databases\\Baskets\\BasketDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:11:45.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQItemConfigurationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Consumer\\RabbitMQItemConfigurationDto.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Consumer\\RabbitMQItemConfigurationDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Consumer\\RabbitMQItemConfigurationDto.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Consumer\\RabbitMQItemConfigurationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:33:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMQBasketConfigurationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Publisher\\RabbitMQBasketConfigurationDto.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Publisher\\RabbitMQBasketConfigurationDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Publisher\\RabbitMQBasketConfigurationDto.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Messages\\MessagesBus\\Dtos\\Publisher\\RabbitMQBasketConfigurationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:32:50.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RabbitMQBasketPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Publisher\\RabbitMQBasketPublisher.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Messages\\MessagesBus\\Publisher\\RabbitMQBasketPublisher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Publisher\\RabbitMQBasketPublisher.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Messages\\MessagesBus\\Publisher\\RabbitMQBasketPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:32:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndPoint\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\appsettings.Development.json",
+              "RelativeToolTip": "BeautyLand.SiteEndPoint\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T12:30:02.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQItemConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Consumer\\RabbitMQItemConsumer.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Messages\\MessagesBus\\Consumer\\RabbitMQItemConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Messages\\MessagesBus\\Consumer\\RabbitMQItemConsumer.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Messages\\MessagesBus\\Consumer\\RabbitMQItemConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:34.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BeautyLand.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\BeautyLand.Application.csproj",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\BeautyLand.Application.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\BeautyLand.Application.csproj",
+              "RelativeToolTip": "BeautyLand.Application\\BeautyLand.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T12:27:57.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Startup.cs",
+              "RelativeDocumentMoniker": "BeautyLand.SiteEndPoint\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.SiteEndPoint\\Startup.cs",
+              "RelativeToolTip": "BeautyLand.SiteEndPoint\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAD4vz4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:21:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Catalogs\\Items\\IItemService.cs",
+              "RelativeDocumentMoniker": "BeautyLand.Application\\Services\\Site\\Catalogs\\Items\\IItemService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MicroServiceProject\\MicroServices\\BasketService\\BeautyLand\\BeautyLand.Application\\Services\\Site\\Catalogs\\Items\\IItemService.cs",
+              "RelativeToolTip": "BeautyLand.Application\\Services\\Site\\Catalogs\\Items\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:16:06.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
